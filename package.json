@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.6",
+    "body-parser": "^1.18.3",
+    "cos-nodejs-sdk-v5": "^2.4.16",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "formidable": "^1.2.1",
+    "moment": "^2.24.0",
+    "multer": "^1.4.1",
+    "mysql": "^2.16.0",
+    "supervisor": "^0.12.0"
+  }
+}
